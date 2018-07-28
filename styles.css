@@ -11,3 +11,13 @@ img {
 	float: left;
 	margin: 1.66%;
 }
+
+p {
+	margin-left: 1.66%;
+	font-weight: 800;
+	font-size: 23px;
+	font-family: Raleway;
+	border-bottom: 2px solid #f1f1f1;
+	width: 30%;
+	padding-bottom: 20px;
+}
